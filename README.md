@@ -1,1 +1,1 @@
-# This is Personal code for Personal use
+# This is personal code just for educate
